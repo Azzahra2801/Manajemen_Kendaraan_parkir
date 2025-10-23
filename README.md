@@ -1,12 +1,16 @@
-# Manajemen Kendaraan Parkir
+Sistem Manajemen Kendaraan & Parkiran
 
-Sistem Manajemen Kendaraan dan Parkiran menggunakan PHP OOP.  
-Proyek ini dibuat sebagai bagian dari Assessment Lab 1.
+Selamat datang di proyek Manajemen_Kendaraan_parkir!  
+Sistem ini dirancang untuk membantu pengelolaan kendaraan dan area parkir secara efisien menggunakan pendekatan PHP OOP.  
+Proyek ini merupakan bagian dari Assessment Lab 1.
 
-# Fitur
-- Pencatatan kendaraan masuk dan keluar
-- Manajemen slot parkir
-- Struktur kode berbasis OOP
+Fitur Unggulan
+- Pencatatan Kendaraan Masuk & Keluar  
+  Mencatat waktu dan identitas kendaraan secara otomatis.
+- Manajemen Slot Parkir
+  Menentukan ketersediaan dan alokasi slot parkir.
+- Struktur Kode Berbasis OOP  
+  Memudahkan pengembangan dan pemeliharaan sistem.
 
-# Teknologi
-- PHP
+Teknologi yang Digunakan
+- PHP(Object-Oriented Programming)
